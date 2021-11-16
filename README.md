@@ -2,8 +2,8 @@ Pivot Technology School SQL Final Project
 
 The objective of this project is analyze the classic Baseball SQL database by Sean Lahman. Sean is a data journalist that also enjoys baseball. The Baseball Archive first appeared on the web in July of 1995, making it the oldest and longest-running baseball website still in existence.
 
-Data has been made available online by Sean Lahman
-Data dictionary here
+Data has been made available online by Sean Lahman: http://www.seanlahman.com/baseball-archive/statistics/
+Data dictionary here: http://www.seanlahman.com/files/database/readme2016.txt
 
 -Pre-Requisites
 -Introduction to SQL
